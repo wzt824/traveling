@@ -1,0 +1,139 @@
+.section {
+  width: 100%;
+  max-width: 1244px;
+  margin: 0 auto;
+  min-width: 485px; }
+  .section .tit h4 {
+    margin-bottom: 40px; }
+  .section .information {
+    width: 100%; }
+    .section .information ul {
+      overflow: hidden; }
+      .section .information ul li {
+        width: 100%;
+        overflow: hidden; }
+        .section .information ul li p:first-of-type {
+          float: left; }
+        .section .information ul li p:last-of-type {
+          float: right; }
+        .section .information ul li p {
+          width: 48%; }
+          .section .information ul li p label {
+            display: inline-block;
+            width: 14%;
+            color: #666666;
+            font-size: 14px;
+            line-height: 14px; }
+            .section .information ul li p label i {
+              color: red;
+              font-size: 12px;
+              vertical-align: middle;
+              margin-right: 3px; }
+          .section .information ul li p input {
+            width: 84%;
+            height: 45px;
+            background: transparent;
+            outline-color: #81a849;
+            border: 1px solid #d9d9d9;
+            margin-bottom: 30px;
+            font-size: 20px;
+            line-height: 24px;
+            color: #666666; }
+      .section .information ul .textare {
+        width: 100%;
+        overflow: hidden; }
+        .section .information ul .textare label {
+          display: inline-block;
+          width: 7%;
+          color: #666666;
+          font-size: 14px;
+          line-height: 14px;
+          vertical-align: middle;
+          position: relative;
+          top: -152px; }
+          .section .information ul .textare label i {
+            color: red;
+            font-size: 12px;
+            vertical-align: middle;
+            margin-right: 3px; }
+        .section .information ul .textare textarea {
+          width: 85%;
+          background: transparent;
+          outline-color: #81a849;
+          border: 1px solid #d9d9d9;
+          margin-bottom: 30px;
+          font-size: 20px;
+          line-height: 24px;
+          color: #666666;
+          resize: none; }
+      .section .information ul .yzm {
+        width: 100%;
+        overflow: hidden;
+        white-space: nowrap;
+        margin-bottom: 40px; }
+        .section .information ul .yzm .pleft {
+          float: left;
+          width: 57%; }
+          .section .information ul .yzm .pleft label {
+            display: inline-block;
+            width: 12%;
+            color: #666666;
+            font-size: 14px;
+            line-height: 14px;
+            vertical-align: middle; }
+            .section .information ul .yzm .pleft label i {
+              color: red;
+              font-size: 12px;
+              vertical-align: middle;
+              margin-right: 3px; }
+          .section .information ul .yzm .pleft input {
+            width: 85%;
+            height: 45px;
+            background: transparent;
+            outline-color: #81a849;
+            border: 1px solid #d9d9d9; }
+        .section .information ul .yzm .pright {
+          width: 40%;
+          float: right; }
+          .section .information ul .yzm .pright a {
+            text-decoration: underline;
+            vertical-align: middle;
+            position: relative;
+            top: -21px;
+            color: #666666;
+            font-size: 14px;
+            line-height: 14px;
+            margin-left: 30px; }
+            .section .information ul .yzm .pright a:hover {
+              color: #81a849; }
+      .section .information ul .btn {
+        padding-left: 7%; }
+        .section .information ul .btn a, .section .information ul .btn input {
+          display: inline-block;
+          width: 210px;
+          height: 49px;
+          line-height: 49px;
+          color: #666666;
+          font-size: 14px;
+          background: #e4e4e4;
+          text-align: center;
+          border-radius: 5px; }
+        .section .information ul .btn input {
+          border: none;
+          outline: none;
+          cursor: pointer;
+          margin-left: 34px;
+          margin-bottom: 40px; }
+
+@media screen and (max-width: 770px) {
+  .section .information ul li p {
+    width: 100%;
+    margin-right: 0%; }
+  .section .information ul .textare label {
+    width: 14%; }
+  .section .information ul .yzm .pleft label {
+    width: 24%; }
+  .section .information ul .yzm .pleft input {
+    width: 73%; }
+  .section .information ul .yzm .pright a {
+    margin-left: 10px; } }

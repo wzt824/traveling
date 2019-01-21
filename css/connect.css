@@ -1,0 +1,44 @@
+body {
+  min-width: 670px; }
+
+.section {
+  width: 100%;
+  max-width: 1244px;
+  margin: 0 auto;
+  min-width: 485px; }
+  .section .tit h4 {
+    margin-bottom: 40px; }
+  .section .relation {
+    width: 100%;
+    background: url(../imgs/contact_bg.png) no-repeat right; }
+    .section .relation a {
+      display: block;
+      width: 100%;
+      text-align: left;
+      overflow: hidden;
+      margin: 30px 0; }
+      .section .relation a img {
+        vertical-align: middle;
+        float: left;
+        margin-right: 46px; }
+      .section .relation a span {
+        color: #666666;
+        line-height: 35px;
+        float: left;
+        vertical-align: middle; }
+    .section .relation .map {
+      display: block;
+      color: white;
+      font-size: 16px;
+      line-height: 35px;
+      width: 113px;
+      height: 35px;
+      background: #81a849;
+      text-align: center; }
+      .section .relation .map i {
+        display: inline-block;
+        width: 16px;
+        height: 16px; }
+        .section .relation .map i img {
+          width: 16px;
+          height: 16px; }

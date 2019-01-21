@@ -1,0 +1,112 @@
+section {
+  width: 100%; }
+
+.section {
+  width: 100%;
+  max-width: 1244px;
+  margin: 0 auto;
+  min-width: 485px; }
+  .section .tit {
+    margin-top: 60px;
+    margin-bottom: 0px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid #ccc; }
+    .section .tit h4 {
+      font-size: 28px;
+      line-height: 28px;
+      margin-bottom: 2px; }
+      .section .tit h4 a {
+        color: #81a87d;
+        display: inline-block;
+        padding: 10px;
+        background: url(../imgs/quan.png) no-repeat left 3px; }
+    .section .tit span {
+      font-size: 12px;
+      line-height: 12px;
+      color: #bcb2c6; }
+  .section .article {
+    text-align: center;
+    color: #666666;
+    padding-bottom: 27px;
+    padding-top: 35px;
+    border-bottom: 1px solid #ccc; }
+    .section .article h4 {
+      font-size: 18px;
+      line-height: 18px;
+      margin-bottom: 14px; }
+    .section .article h5 {
+      font-size: 14px;
+      line-height: 14px;
+      margin-bottom: 33px; }
+    .section .article ul li {
+      font-size: 16px;
+      line-height: 27px; }
+  .section .showhouses {
+    text-align: center;
+    padding-top: 28px; }
+    .section .showhouses .title {
+      margin-bottom: 23px; }
+      .section .showhouses .title a {
+        color: #666666;
+        font-size: 24px;
+        line-height: 24px; }
+    .section .showhouses .slideshow {
+      padding-bottom: 80px; }
+      .section .showhouses .slideshow .showbox {
+        width: 100%; }
+        .section .showhouses .slideshow .showbox img {
+          width: 100%;
+          height: 100%; }
+      .section .showhouses .slideshow .smallshow {
+        position: relative;
+        width: 100%; }
+        .section .showhouses .slideshow .smallshow i {
+          display: inline-block;
+          width: 102px;
+          height: 32px; }
+        .section .showhouses .slideshow .smallshow .leftBtn {
+          position: absolute;
+          left: 0;
+          top: 45%;
+          z-index: 999;
+          background: url(../imgs/pr1_com.png) no-repeat center; }
+        .section .showhouses .slideshow .smallshow .rightBtn {
+          position: absolute;
+          right: 0;
+          top: 45%;
+          z-index: 999;
+          background: url(../imgs/ne1_com.png) no-repeat center; }
+        .section .showhouses .slideshow .smallshow .bigbox {
+          position: relative;
+          max-width: 950px;
+          margin: 0px auto;
+          width: 100%;
+          overflow: hidden;
+          height: 185px;
+          padding-top: 20px; }
+          .section .showhouses .slideshow .smallshow .bigbox ul {
+            position: absolute;
+            overflow: hidden;
+            width: 200%;
+            max-width: 2000px;
+            white-space: nowrap; }
+            .section .showhouses .slideshow .smallshow .bigbox ul li {
+              max-width: 297px;
+              width: 30%;
+              float: left;
+              margin-right: 21px;
+              text-align: left;
+              border-bottom: 1px solid #e0e0e0; }
+              .section .showhouses .slideshow .smallshow .bigbox ul li a {
+                display: block;
+                width: 100%; }
+                .section .showhouses .slideshow .smallshow .bigbox ul li a img {
+                  width: 100%;
+                  height: 100%; }
+              .section .showhouses .slideshow .smallshow .bigbox ul li span {
+                padding-left: 24px;
+                line-height: 34px;
+                color: #666666;
+                font-size: 14px; }
+            .section .showhouses .slideshow .smallshow .bigbox ul li:last-of-type {
+              margin-right: 0; }

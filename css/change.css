@@ -1,0 +1,205 @@
+@media screen and (min-width: 1450px) {
+  .banner {
+    height: 700px; }
+  .sildebox img {
+    height: 700px; }
+  .comfortable .house {
+    height: 450px; } }
+
+@media screen and (max-width: 1450px) and (min-width: 1400px) {
+  .banner {
+    height: 640px; }
+  .sildebox img {
+    height: 640px; }
+  .comfortable .house {
+    height: 450px; } }
+
+@media screen and (max-width: 1400px) and (min-width: 1350px) {
+  .banner {
+    height: 618px; }
+  .sildebox img {
+    height: 618px; }
+  .comfortable .house {
+    height: 450px; } }
+
+@media screen and (max-width: 1350px) and (min-width: 1250px) {
+  .banner {
+    height: 572px; }
+  .sildebox img {
+    height: 572px; }
+  .comfortable .house {
+    height: 438px; } }
+
+@media screen and (max-width: 1250px) and (min-width: 1200px) {
+  .banner {
+    height: 548px; }
+  .sildebox img {
+    height: 548px; }
+  .comfortable .house {
+    height: 420px; }
+  .comfortable .house .right {
+    height: 420px; } }
+
+@media screen and (max-width: 1200px) and (min-width: 1150px) {
+  .banner {
+    height: 525px; }
+  .sildebox img {
+    height: 525px; }
+  .comfortable .house {
+    height: 403px; }
+  .comfortable .house .right {
+    height: 403px; } }
+
+@media screen and (max-width: 1150px) and (min-width: 1100px) {
+  .banner {
+    height: 502px; }
+  .sildebox img {
+    height: 502px; }
+  .comfortable .house {
+    height: 385px; }
+  .comfortable .house .right {
+    height: 385px; } }
+
+@media screen and (max-width: 1100px) and (min-width: 1050px) {
+  .banner {
+    height: 477px; }
+  .sildebox img {
+    height: 477px; }
+  .comfortable .house {
+    height: 366px; }
+  .comfortable .house .right {
+    height: 366px; } }
+
+@media screen and (max-width: 1050px) and (min-width: 1000px) {
+  .banner {
+    height: 455px; }
+  .sildebox img {
+    height: 455px; }
+  .comfortable .house {
+    height: 348px; }
+  .comfortable .house .right {
+    height: 348px; } }
+
+@media screen and (max-width: 1000px) and (min-width: 950px) {
+  .banner {
+    height: 433px; }
+  .sildebox img {
+    height: 433px; }
+  .comfortable .house {
+    height: 330px; }
+  .comfortable .house .right {
+    height: 330px; } }
+
+@media screen and (max-width: 950px) and (min-width: 900px) {
+  .banner {
+    height: 409px; }
+  .sildebox img {
+    height: 409px; }
+  .comfortable .house {
+    height: 314px; }
+  .comfortable .house .right {
+    height: 314px; } }
+
+@media screen and (max-width: 900px) and (min-width: 850px) {
+  .banner {
+    height: 386px; }
+  .sildebox img {
+    height: 386px; }
+  .comfortable .house {
+    height: 294px; }
+  .comfortable .house .right {
+    height: 294px; } }
+
+@media screen and (max-width: 850px) and (min-width: 800px) {
+  .banner {
+    height: 362px; }
+  .sildebox img {
+    height: 362px; }
+  .comfortable .house {
+    height: 278px; }
+  .comfortable .house .right {
+    height: 278px; } }
+
+@media screen and (max-width: 800px) and (min-width: 750px) {
+  .banner {
+    height: 340px; }
+  .sildebox img {
+    height: 340px; }
+  .comfortable .house {
+    height: 260px; }
+  .comfortable .house .right {
+    height: 260px; } }
+
+@media screen and (max-width: 750px) and (min-width: 700px) {
+  .banner {
+    height: 316px; }
+  .sildebox img {
+    height: 316px; }
+  .comfortable .house {
+    height: 242px; }
+  .comfortable .house .right {
+    height: 242px; } }
+
+@media screen and (max-width: 700px) and (min-width: 650px) {
+  .banner {
+    height: 309px; }
+  .sildebox img {
+    height: 309px; }
+  .comfortable .house {
+    height: 237px; }
+  .comfortable .house .right {
+    height: 237px; } }
+
+@media screen and (max-width: 650px) and (min-width: 550px) {
+  .banner {
+    height: 285px; }
+  .sildebox img {
+    height: 285px; }
+  .comfortable .house {
+    height: 228px; }
+  .comfortable .house .right {
+    height: 228px; } }
+
+@media screen and (max-width: 550px) and (min-width: 450px) {
+  .banner {
+    height: 271px; }
+  .sildebox img {
+    height: 271px; }
+  .comfortable .house {
+    height: 212px; }
+  .comfortable .house .right {
+    height: 212px; } }
+
+@media screen and (max-width: 450px) {
+  .banner {
+    height: 271px;
+    width: 90%; }
+  .sildebox img {
+    height: 271px; }
+  .comfortable .house {
+    height: 212px; }
+  .comfortable .house .right {
+    height: 212px; } }
+
+@media screen and (max-width: 1202px) {
+  .descript {
+    display: none; }
+  .housetit {
+    border: none !important; } }
+
+@media screen and (min-width: 1001px) {
+  .header {
+    position: absolute; } }
+
+@media screen and (max-width: 1000px) {
+  .header {
+    position: relative !important; }
+  .new .newscon .newscon-right {
+    padding-top: 10px; } }
+
+@media screen and (max-width: 768px) {
+  .new .newscon .newscon {
+    padding-right: 10px; }
+  .new .newscon .newscon-right {
+    padding-left: 10px !important;
+    padding-top: 15px; } }
